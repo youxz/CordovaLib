@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:2:102-135
+		INJECTED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml
+		INJECTED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:2:74-101
+		INJECTED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml
+		INJECTED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:2:136-194
+	android:versionCode
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:2:46-73
+		INJECTED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml
+		INJECTED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:7:22-63
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:9:22-76
+uses-feature#android.hardware.location.gps
+ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:10:19-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:12:22-68
+uses-permission#android.permission.RECORD_VIDEO
+ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:13:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:15:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:16:22-72
+uses-permission#android.permission.CAMERA
+ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:17:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:18:5-69
+	android:name
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:18:22-66
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:19:5-73
+	android:name
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:19:22-70
+uses-feature#android.hardware.camera
+ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:20:5-85
+	android:required
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:20:58-82
+	android:name
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml:20:19-57
+uses-sdk
+INJECTED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml
+INJECTED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml
+		ADDED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml
+		INJECTED from /Users/youxiaozhong/Documents/my-code/workspace-2019/android/CordovaLibs/platforms/android/cordova_plugin/src/main/AndroidManifest.xml
