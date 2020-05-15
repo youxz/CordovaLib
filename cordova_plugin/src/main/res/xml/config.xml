@@ -52,6 +52,9 @@
     <feature name="ExitApp">
         <param name="android-package" value="cordova.custom.plugins.exitapp.ExitApp" />
     </feature>
+    <preference name="webView" value="org.apache.cordova.x5engine.X5WebViewEngine"/>
+    <preference name="appUserAgent" value="appX5"/>
+    <preference name="android-minSdkVersion" value="15" />
     <name>HelloCordova</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.

@@ -28,7 +28,7 @@ buildscript {
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.0.1'
+        classpath 'com.android.tools.build:gradle:3.5.0'
     }
 }
 
@@ -270,6 +270,7 @@ dependencies {
     implementation(project(path: ":CordovaLib"))
     implementation "com.android.support:support-v4:24.1.1+"
     // SUB-PROJECT DEPENDENCIES END
+    api project(path: ':CordovaLib')
 }
 
 def promptForReleaseKeyPassword() {
